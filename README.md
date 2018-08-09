@@ -1,3 +1,3 @@
 # ipgBuild
 This is to build the ipg nms modules(FCAPS)
-it contains Parent ipgnms project and one util and rest are the NMS module
+it contains Parent ipgnms project and one util and rest are the NMS modules
